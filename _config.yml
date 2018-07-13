@@ -1,6 +1,6 @@
 # Site settings
-title: "Rainier Part 2 Template"
-description: "Trying to get conflicted."
+title: "Rainier Resume Template"
+description: "A resume template for Rainier."
 
 # Build settings
 markdown: kramdown
